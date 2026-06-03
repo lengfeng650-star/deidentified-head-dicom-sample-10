@@ -1,0 +1,23 @@
+﻿{
+  "dataset_id": "deidentified-head-dicom-sample-10",
+  "dataset_name_zh": "脱敏头部DICOM影像病例样例10例",
+  "case_count": 10,
+  "archive_count": 10,
+  "dicom_file_count": 1788,
+  "series_count": 20,
+  "homepage_count": 10,
+  "modality_counts": {
+    "CT": 1619,
+    "UNKNOWN": 169
+  },
+  "top_series_descriptions": [
+    "Dose Info"
+  ],
+  "size_bytes": 985020040,
+  "archive_root": "data/case_archives/",
+  "archive_manifest": "metadata/archives_manifest.jsonl",
+  "file_manifest": "metadata/dicom_files_manifest.jsonl",
+  "case_manifest": "metadata/cases_manifest.jsonl",
+  "published_layout": "case_zip_archives",
+  "selection_note": "selected_first_10_cases_from_11_deidentified_case_folders"
+}
