@@ -1,0 +1,16 @@
+# 数据文件下载
+
+- [data/case_archives/case_001.zip](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/data/case_archives/case_001.zip)
+- [data/case_archives/case_002.zip](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/data/case_archives/case_002.zip)
+- [data/case_archives/case_003.zip](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/data/case_archives/case_003.zip)
+- [data/case_archives/case_004.zip](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/data/case_archives/case_004.zip)
+- [data/case_archives/case_005.zip](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/data/case_archives/case_005.zip)
+- [data/case_archives/case_006.zip](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/data/case_archives/case_006.zip)
+- [data/case_archives/case_007.zip](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/data/case_archives/case_007.zip)
+- [data/case_archives/case_008.zip](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/data/case_archives/case_008.zip)
+- [data/case_archives/case_009.zip](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/data/case_archives/case_009.zip)
+- [data/case_archives/case_010.zip](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/data/case_archives/case_010.zip)
+- [metadata/archives_manifest.jsonl](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/metadata/archives_manifest.jsonl)
+- [metadata/cases_manifest.jsonl](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/metadata/cases_manifest.jsonl)
+- [metadata/dataset_summary.json](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/metadata/dataset_summary.json)
+- [metadata/dicom_files_manifest.jsonl](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/raw/refs/heads/main/metadata/dicom_files_manifest.jsonl)

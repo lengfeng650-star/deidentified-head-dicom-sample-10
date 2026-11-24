@@ -17,6 +17,10 @@ configs:
 
 # 脱敏头部 DICOM 影像病例样例 10 例
 
+## 直接下载
+
+- [逐文件下载](https://github.com/lengfeng650-star/deidentified-head-dicom-sample-10/blob/main/meta/downloads.md)
+
 本数据集从 11 例已脱敏的头部影像病例包中选取 10 例整理开放。每例包含 DICOM 影像文件和对应的脱敏病案首页，适用于医学影像数据结构验证、DICOM 解析流程测试、影像与结构化病案信息关联建模、医疗数据产品演示等场景。
 
 如需更大规模的医学影像、电子病历、药品说明书、中医古籍、医学考试题库等医疗数据合作，可发送邮件至 zhouhaoran@shujuyoupu.com。
